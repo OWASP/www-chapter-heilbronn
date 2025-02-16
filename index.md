@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP chapter- heilbronn
+title: OWASP Chapter Heilbronn
 tags: example-tag
 region: Europe
 country: Germany
