@@ -1,3 +1,3 @@
-### Leaders
-* [Andreas Kurtz](mailto:mail@andreas-kurtz.de)
-* [Andreas Mayer](mailto:andreas.mayer@hs-heilbronn.de)
+### Organisatoren
+* [Andreas Kurtz](mailto:andreas.kurtz@owasp.org)
+* [Andreas Mayer](mailto:andreas.mayer@owasp.org)
