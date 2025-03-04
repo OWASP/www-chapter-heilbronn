@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Chapter Heilbronn
+title: OWASP Heilbronn
 tags: germany heilbronn
 region: Europe
 country: Germany
