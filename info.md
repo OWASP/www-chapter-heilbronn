@@ -1,4 +1,4 @@
-<img src="./assets/owasp_heilbronn_logo.jpg" alt="OWASP Heilbronn Logo" style="max-width:70%; height:auto;">
+<img src="./assets/images/owasp_heilbronn_logo.jpg" alt="OWASP Heilbronn Logo" style="max-width:70%; height:auto;">
 
 ### Navigation
 * [OWASP Germany](/www-chapter-germany/)
