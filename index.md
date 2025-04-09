@@ -14,13 +14,22 @@ postal-code: 74081
 
 Liebe IT Security-Interessierte,
 
-unser OWASP Stammtisch findet in unregelmäßigen Abständen immer donnerstags, um 18:30 Uhr am [TechCampus](https://www.hs-heilbronn.de/kontakt) der Hochschule Heilbronn in Sontheim statt. Parkplätze sind abends kostenlos und in ausreichender Anzahl vorhanden. 
+es ist soweit - wir melden uns mit neuem Schwung zurück und laden herzlich zum Reboot des OWASP Stammtischs Heilbronn ein! 🔒🚀
 
-Alle mit Interesse an unseren Themen sind herzlich willkommen. Die Treffen sind kostenlos und für alle offen. Eine OWASP-Mitgliedschaft ist nicht erforderlich. Wir freuen uns immer über bekannte und neue Gesichter von nah und fern. Hinweise auf diese Webseite oder auf einzelne Treffen sind jederzeit gern gesehen.
+📅 Termin: 8. Mai 2025
+🕕 Einlass: ab 18:00 Uhr
+🗣 Programmstart: 18:30 Uhr
+📍 Ort: Restaurant Cäcilie, Heilbronn
+🔗 https://restaurants.schwarz/restaurant-caecilie
 
-## Anstehende Stammtische
+🎤 Unsere Vortrags-Highlights zum Reboot:
 
-Für März 2025 planen wir eine Veranstaltung. Weitere Details werden hier, per Meetup (sobald verfügbar) und über die [OWASP Germany-Mailingliste](https://groups.google.com/a/owasp.org/forum/#!forum/germany-chapter) veröffentlicht. Stay tuned! 😊
+Tobias Glemser: "OWASP ist so viel mehr als die Top 10"
+Benjamin Häublein: "OAuth sicher mit Single-Page-Applications nutzen: Architektur-Pattern und Best Practices"
+
+Im Anschluss laden wir zum gemütlichen Austausch bei Snacks ein – ideal zum Netzwerken, Fachsimpeln und Wiedersehen 👋
+
+👉 Voranmeldung erbeten – entweder über [Meetup](https://www.meetup.com/owasp-heilbronn-chapter/events/307177537/) oder den [DFN Terminplaner](https://terminplaner6.dfn.de/de/b/0c4d54ba94959fae375841a1abef14d3-1179298)
 
 ## Vergangene Stammtische
 
