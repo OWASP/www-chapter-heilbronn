@@ -16,11 +16,12 @@ Liebe IT Security-Interessierte,
 
 es ist soweit - wir melden uns mit neuem Schwung zurück und laden herzlich zum Reboot des OWASP Stammtischs Heilbronn ein! 🔒🚀
 
+
 📅 Termin: 8. Mai 2025
-🕕 Einlass: ab 18:00 Uhr
-🗣 Programmstart: 18:30 Uhr
-📍 Ort: Restaurant Cäcilie, Heilbronn
-🔗 https://restaurants.schwarz/restaurant-caecilie
+🕕 Einlass: ab 18:00 Uhr 
+🗣 Programmstart: 18:30 Uhr 
+📍 Ort: [Restaurant Cäcilie](https://restaurants.schwarz/restaurant-caecilie), Heilbronn 
+
 
 🎤 Unsere Vortrags-Highlights zum Reboot:
 
@@ -30,6 +31,7 @@ Benjamin Häublein: "OAuth sicher mit Single-Page-Applications nutzen: Architekt
 Im Anschluss laden wir zum gemütlichen Austausch bei Snacks ein – ideal zum Netzwerken, Fachsimpeln und Wiedersehen 👋
 
 👉 Voranmeldung erbeten – entweder über [Meetup](https://www.meetup.com/owasp-heilbronn-chapter/events/307177537/) oder den [DFN Terminplaner](https://terminplaner6.dfn.de/de/b/0c4d54ba94959fae375841a1abef14d3-1179298)
+
 
 ## Vergangene Stammtische
 
