@@ -14,8 +14,9 @@ postal-code: 74081
 
 Liebe IT Security-Interessierte,
 
-es ist soweit - wir melden uns mit neuem Schwung zurück und laden herzlich zum Reboot des OWASP Stammtischs Heilbronn ein! 🔒🚀  
+nach einem äußerst erfolgreichen [Reboot](https://www.linkedin.com/posts/andreas-mayer-cybersec_gestern-war-der-reboot-unseres-owasp-stammtisch-activity-7326689060456960000-_zQ9/) laufen die Planungen für unseren nächsten Stammtisch auf Hochtouren - stay tuned 🔒🚀  
 
+<!-- 
 📅 Termin: 8. Mai 2025  
 🕕 Einlass: ab 18:00 Uhr  
 🗣 Programmstart: 18:30 Uhr  
@@ -29,11 +30,12 @@ Benjamin Häublein: "OAuth sicher mit Single-Page-Applications nutzen: Architekt
 Im Anschluss laden wir zum gemütlichen Austausch bei Snacks ein – ideal zum Netzwerken, Fachsimpeln und Wiedersehen 👋  
 
 👉 Voranmeldung erbeten – entweder über [Meetup](https://www.meetup.com/owasp-heilbronn-chapter/events/307177537/) oder den [DFN Terminplaner](https://terminplaner6.dfn.de/de/b/0c4d54ba94959fae375841a1abef14d3-1179298)
-
+-->
 ## Vergangene Stammtische
 
-| Nr. (Datum)  | Thema | Referent |
+| Nr. (Datum)  | Thema | Referent\*in |
 | ------------- | ------------- |------------- |
+|\#009 (08.05.2025) | [OWASP ist so viel mehr als die Top 10](assets/slides/20250508_ChapterHeilbronn-OWASP_so_much_more_than_just_top_10.pdf) <br />[OAuth sicher mit Single-Page-Applications nutzen: Architektur-Pattern und Best Practices](assets/slides/20250508_OAuth2_sicher_mit_SPAs_nutzen.pdf)| Tobias Glemser <br />Benjamin Häublein|
 |\#008 (28.11.2019) | Drum prüfe, wer sich bindet: JSON Web Tokens und deren Sicherheit | Andreas Mayer |
 |\#007 (26.09.2019) | Smarte und vernetzte medizinische Helferlein - Eine Gefahr für unsere Daten?! | Cord Lissek |
 |\#006 (25.04.2019) | Über die Verbreitung von verwundbaren Bibliotheken in Open Source-Projekten | Maximilian Westers |
