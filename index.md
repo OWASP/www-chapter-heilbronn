@@ -19,8 +19,7 @@ am Donnerstag, den 24. Juli, geht unser OWASP Stammtisch in die nächste Runde -
 📅 Datum: 24. Juli 2025   
 🕕 Einlass: ab 18:00 Uhr   
 🗣 Start: 18:30 Uhr   
-📍 Ort: Restaurant Cäcilie, Heilbronn   
-🔗 https://restaurants.schwarz/restaurant-caecilie   
+📍 Ort: [Restaurant Cäcilie](https://restaurants.schwarz/restaurant-caecilie), Heilbronn   
  
 🎤 **Vortrag: Responsible, Coordinated, Frustriert? Vulnerability Reporting in der Praxis**   
     
@@ -29,8 +28,8 @@ Julian Suleder (ERNW Enno Rey Netzwerke GmbH) berichtet aus der Praxis über Les
 Anschließend bleibt wieder Zeit fürs Netzwerken und Fachsimpeln bei leckeren Snacks. Vielen Dank an Schwarz Digits für das Hosting!    
    
 👉 Voranmeldung wie immer über   
-🔹 Meetup: https://www.meetup.com/owasp-heilbronn-chapter/events/309169019/   
-🔹 DFN Terminumfrage: https://terminplaner6.dfn.de/de/b/4e70c2822058e95c3138e746199370a4-1311363   
+🔹 [Meetup](https://www.meetup.com/owasp-heilbronn-chapter/events/309169019/)   
+🔹 [DFN Terminumfrage](https://terminplaner6.dfn.de/de/b/4e70c2822058e95c3138e746199370a4-1311363)   
     
 ## Vergangene Stammtische
 
