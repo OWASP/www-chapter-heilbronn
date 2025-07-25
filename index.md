@@ -14,7 +14,7 @@ postal-code: 74081
 
 Liebe IT Security-Interessierte,   
    
-Alle mit Interesse an unseren Themen sind herzlich willkommen. Die Treffen sind kostenlos und für alle offen. Eine OWASP-Mitgliedschaft ist nicht erforderlich. Wir freuen uns immer über bekannte und neue Gesichter von nah und fern.  
+alle mit Interesse an unseren Themen sind herzlich willkommen. Die Treffen sind kostenlos. Eine OWASP-Mitgliedschaft ist nicht erforderlich. Wir freuen uns immer über bekannte und neue Gesichter von nah und fern.  
   
 Der nächste Stammtisch wird an einem Donnerstag im September stattfinden - stay tuned 🔒🚀
   
