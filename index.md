@@ -28,7 +28,7 @@ Christopher Dreher alias [Schniggie](https://github.com/schniggie) wird eine spa
    
 Anschließend bleibt wieder genügend Zeit fürs Netzwerken und Fachsimpeln bei leckerem Essen und kühlen Getränken.   
    
-👉 Voranmeldung bitte über [Meetup](https://www.meetup.com/owasp-heilbronn-chapter/events/312264321/) oder alternativ [nuudel](https://nuudel.digitalcourage.de/SQT4gJcI8qvwt62m)  
+👉 Voranmeldung bitte über [Meetup](https://www.meetup.com/owasp-heilbronn-chapter/events/312264321/) oder alternativ [nuudel](https://nuudel.digitalcourage.de/SQT4gJcI8qvwt62m).    
    
 ## Vergangene Stammtische
 
