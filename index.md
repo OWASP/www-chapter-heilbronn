@@ -5,7 +5,7 @@ title: OWASP Heilbronn
 tags: germany heilbronn
 region: Europe
 country: Germany
-meetup-group:
+meetup-group: owasp-heilbronn-chapter
 postal-code: 74081
 
 ---
