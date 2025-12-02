@@ -13,11 +13,23 @@ postal-code: 74081
 ## Willkommen beim OWASP Stammtisch Heilbronn
 
 Liebe IT Security-Interessierte,   
+    
+das Warten hat ein Ende, unser OWASP Stammtisch geht in die 11. Runde – wieder mit spannendem Input und der Gelegenheit zum Austausch in entspannter Atmosphäre.🔒🚀   
    
-alle mit Interesse an unseren Themen sind herzlich willkommen. Die Treffen sind kostenlos. Eine OWASP-Mitgliedschaft ist nicht erforderlich. Wir freuen uns immer über bekannte und neue Gesichter von nah und fern.  
-  
-Der nächste Stammtisch wird an einem Donnerstag im September stattfinden - stay tuned 🔒🚀
-  
+📅 Datum: Dienstag, der 16. Dezember 2025  
+🕕 Einlass: ab 18 Uhr   
+🗣 Start: 18:30 Uhr   
+📍 Ort: Restaurant 1879 Trappensee, Heilbronn   
+🔗 https://www.trappensee-heilbronn.de   
+    
+   
+🎤 **Vortrag: CTRL+Claude–CTRL+V – Chill and watch the AI break things**   
+Christopher Dreher alias [Schniggie](https://github.com/schniggie) wird eine spannende Einführung in die Welt der KI-Agenten geben und zeigen, wie diese gekonnt Security-Aufgaben erledigen.  
+   
+Anschließend bleibt wieder genügend Zeit fürs Netzwerken und Fachsimpeln bei leckerem Essen und kühlen Getränken.   
+   
+👉 Voranmeldung bitte über [Meetup](https://www.meetup.com/owasp-heilbronn-chapter/events/312264321/) oder alternativ [nuudel](https://nuudel.digitalcourage.de/SQT4gJcI8qvwt62m)  
+   
 ## Vergangene Stammtische
 
 | Nr. (Datum)  | Thema | Referent\*in |
