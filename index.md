@@ -14,26 +14,15 @@ postal-code: 74081
 
 Liebe IT Security-Interessierte,   
     
-das Warten hat ein Ende, unser OWASP Stammtisch geht in die 11. Runde – wieder mit spannendem Input und der Gelegenheit zum Austausch in entspannter Atmosphäre.🔒🚀   
-   
-📅 Datum: Dienstag, der 16. Dezember 2025  
-🕕 Einlass: ab 18 Uhr   
-🗣 Start: 18:30 Uhr   
-📍 Ort: Restaurant 1879 Trappensee, Heilbronn   
-🔗 https://www.trappensee-heilbronn.de   
-    
-   
-🎤 **Vortrag: CTRL+Claude–CTRL+V – Chill and watch the AI break things**   
-Christopher Dreher alias [Schniggie](https://github.com/schniggie) wird eine spannende Einführung in die Welt der KI-Agenten geben und zeigen, wie diese gekonnt Security-Aufgaben erledigen.  
-   
-Anschließend bleibt wieder genügend Zeit fürs Netzwerken und Fachsimpeln bei leckerem Essen und kühlen Getränken.   
-   
-👉 Voranmeldung bitte über [Meetup](https://www.meetup.com/owasp-heilbronn-chapter/events/312264321/) oder alternativ [nuudel](https://nuudel.digitalcourage.de/SQT4gJcI8qvwt62m).    
+alle mit Interesse an unseren Themen sind herzlich willkommen. Die Treffen sind kostenlos. Eine OWASP-Mitgliedschaft ist nicht erforderlich. Wir freuen uns immer über bekannte und neue Gesichter von nah und fern.
+
+Wir wünschen allen frohe und besinnliche Weihnachten und freuen uns auf den nächsten Stammtisch in 2026 - stay tuned 🔒🚀   
    
 ## Vergangene Stammtische
 
 | Nr. (Datum)  | Thema | Referent\*in |
 | ------------- | ------------- |------------- |
+|\#011 (16.12.2025) | [CTRL+Claude–CTRL+V – Chill and watch the AI break things](assets/slides/20251216_CTRL-Claude-CTRL-V.pdf) | Christopher Dreher|
 |\#010 (24.07.2025) | [Responsible, Coordinated, Frustriert? Vulnerability Reporting in der Praxis](assets/slides/20250724_OWASP_Stammtisch_Disclosures.pdf) | Julian Suleder|
 |\#009 (08.05.2025) | [OWASP ist so viel mehr als die Top 10](assets/slides/20250508_ChapterHeilbronn-OWASP_so_much_more_than_just_top_10.pdf) <br />[OAuth sicher mit Single-Page-Applications nutzen: Architektur-Pattern und Best Practices](assets/slides/20250508_OAuth2_sicher_mit_SPAs_nutzen.pdf)| Tobias Glemser <br />Benjamin Häublein|
 |\#008 (28.11.2019) | Drum prüfe, wer sich bindet: JSON Web Tokens und deren Sicherheit | Andreas Mayer |
