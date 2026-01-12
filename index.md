@@ -14,9 +14,44 @@ postal-code: 74081
 
 Liebe IT Security-Interessierte,   
     
-alle mit Interesse an unseren Themen sind herzlich willkommen. Die Treffen sind kostenlos. Eine OWASP-Mitgliedschaft ist nicht erforderlich. Wir freuen uns immer über bekannte und neue Gesichter von nah und fern.
+wir starten fulminant ins Jahr 2026! Am 28. Januar treffen wir uns zum nächsten OWASP Stammtisch Heilbronn, diesmal an der Hochschule Heilbronn am Bildungscampus – und wir haben ein echtes Highlight-Programm für euch.   
+   
+Das erwartet euch:   
+   
+🎤 Vortrag: "Who Do You Trust? Open Source at Scale"   
+Dr. Richard Zowalla nimmt uns mit hinter die Kulissen der Apache Software Foundation (ASF). Erfahrt aus erster Hand, wie Sicherheit, Governance und Supply-Chain-Realität in einem der größten Open-Source-Ökosysteme der Welt organisiert werden – ganz ohne klassischen Hersteller oder SLAs.   
+   
+Zum Speaker: Richard ist wissenschaftlicher Mitarbeiter an der Hochschule Heilbronn und am Fraunhofer IAO sowie aktueller Chair von Apache Storm und StormCrawler und Mitglied der Apache Software Foundation. Er entwickelt seit Jahren Open-Source-Projekte, treibt Releases voran und teilt seine Erfahrungen aus der Arbeit in der OSS-Community weltweit.   
+   
+🧪 Exklusiv: Lernlabor Cybersicherheit  
+Neben dem Vortrag öffnen wir das Lernlabor "Sicherheitsfaktor Mensch" der Hochschule Heilbronn & Fraunhofer IAO/Academy. Hier könnt ihr an spannenden Live-Demonstratoren selbst aktiv werden, hacken und ausprobieren.   
+     
+🍕 Networking & Pizza   
+Dank Unterstützung von Christian Biehler (bi-sec GmbH) ist für das leibliche Wohl bestens gesorgt – Pizza für echtes Studi-Feeling inklusive!    
+    
+Agenda:    
+   
+18:00 Uhr: Ankommen & Networking
+18:30 Uhr: Vortrag von Dr. Richard Zowalla & Q&A
+Open End: Pizza, Networking & Besuch im Lernlabor
 
-Wir wünschen allen frohe und besinnliche Weihnachten und freuen uns auf den nächsten Stammtisch in 2026 - stay tuned 🔒🚀   
+Ort & Anreise:
+
+	Treffpunkt: Hochschule Heilbronn, Bildungscampus 17 (Lageplan: https://bildungscampus.hn/lageplan)
+	Parken: Parkhaus P-Mitte (Kostenpflichtig, Zufahrt über Weipertstraße 51, Anfahrt: https://bildungscampus.hn/anfahrt/parkhaus-mitte)
+
+Anmeldung: Um besser planen zu können (Stichwort: Pizza!), bitten wir um eine Anmeldung über eine der beiden Plattformen:  
+   
+👉 Meetup: https://www.meetup.com/owasp-heilbronn-chapter/events/312781935/  
+👉 DFN Terminplaner: https://terminplaner6.dfn.de/en/b/f1efc8d98c5eef71ffff38657010376c-1547154  
+   
+Abstract des Vortrags:  
+   
+Who Do You Trust? Open Source at Scale – Security, Governance und Supply-Chain-Realität in der Apache Software Foundation (Dr. Richard Zowalla)    
+   
+Apache Projekte wie HTTP Server, Kafka, Logging, Tomcat oder Maven sind zentrale Bausteine moderner Software-Lieferketten. Gleichzeitig entstehen sie in einer weltweit verteilten Open-Source-Community - ohne klassischen Hersteller, ohne SLAs und ohne zentrale Entwicklungsorganisation.   
+   
+Dieser Vortrag gibt einen Einblick in die Apache Software Foundation (ASF) und zeigt, wie Sicherheit in einem der größten Open-Source-Ökosysteme der Welt organisiert wird. Im Mittelpunkt steht die Governance der ASF: Wie Verantwortung auf Projektebene verteilt ist, welche Rollen es gibt und warum diese Struktur ein zentrales Element der Security-Strategie darstellt. Darauf aufbauend werden konkrete Sicherheitsmechanismen beleuchtet, darunter das Release- und Vertrauensmodell der ASF, Reproducible Builds sowie den Umgang mit Vulnerability Disclosure und CVEs. Abschließend ordnen wir diese Maßnahmen im Kontext von Open-Source-Supply-Chain-Risiken und neuer regulatorischer Anforderungen wie dem Cyber Resilience Act ein.   
    
 ## Vergangene Stammtische
 
