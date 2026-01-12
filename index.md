@@ -35,15 +35,15 @@ Agenda:
 18:30 Uhr: Vortrag von Dr. Richard Zowalla & Q&A
 Open End: Pizza, Networking & Besuch im Lernlabor
 
-Ort & Anreise:
-
-	Treffpunkt: Hochschule Heilbronn, Bildungscampus 17 (Lageplan: https://bildungscampus.hn/lageplan)
-	Parken: Parkhaus P-Mitte (Kostenpflichtig, Zufahrt über Weipertstraße 51, Anfahrt: https://bildungscampus.hn/anfahrt/parkhaus-mitte)
-
+Ort & Anreise:   
+   
+Treffpunkt: Hochschule Heilbronn, Bildungscampus 17 ([Lageplan](https://bildungscampus.hn/lageplan))   
+Parken: Parkhaus P-Mitte (Kostenpflichtig, Zufahrt über Weipertstraße 51, [Anfahrt](https://bildungscampus.hn/anfahrt/parkhaus-mitte))   
+   
 Anmeldung: Um besser planen zu können (Stichwort: Pizza!), bitten wir um eine Anmeldung über eine der beiden Plattformen:  
    
-👉 Meetup: https://www.meetup.com/owasp-heilbronn-chapter/events/312781935/  
-👉 DFN Terminplaner: https://terminplaner6.dfn.de/en/b/f1efc8d98c5eef71ffff38657010376c-1547154  
+👉 [Meetup](https://www.meetup.com/owasp-heilbronn-chapter/events/312781935/)   
+👉 [DFN Terminplaner](https://terminplaner6.dfn.de/en/b/f1efc8d98c5eef71ffff38657010376c-1547154)  
    
 Abstract des Vortrags:  
    
