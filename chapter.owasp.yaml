@@ -1,0 +1,24 @@
+leaders:
+  - name: Andreas Kurtz
+    email: andreas.kurtz@owasp.org
+  - name: Andreas Mayer
+    email: andreas.mayer@owasp.org
+    github: andreasmayer
+location:
+  country: Germany
+  country_code: DE
+  region: Baden-Württemberg
+  city: Heilbronn
+  postal_code: '74081'
+  latitude: 49.142291
+  longitude: 9.218655
+name: OWASP Heilbronn
+repositories:
+  - name: www-chapter-heilbronn
+    url: https://github.com/OWASP/www-chapter-heilbronn
+    description: OWASP Foundation web repository
+tags:
+  - germany
+  - heilbronn
+  - custom-tag-1
+website: https://owasp.org/www-chapter-heilbronn
