@@ -6,6 +6,7 @@
 * [Stammtisch FAQ](/www-chapter-germany/stammtische/#stammtisch-faq)
 
 ### Social Links
-* [Meetup](https://www.meetup.com/owasp-heilbronn-chapter/)
+* [Mastodon](https://infosec.exchange/@owasp_heilbronn/)
+* [LinkedIn](https://www.linkedin.com/company/owasp-heilbronn/)
 
 
