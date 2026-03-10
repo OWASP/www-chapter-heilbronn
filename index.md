@@ -12,11 +12,33 @@ postal-code: 74081
 
 ## Willkommen beim OWASP Stammtisch Heilbronn
 
-Liebe IT Security-Interessierte,   
-    
-alle mit Interesse an unseren Themen sind herzlich willkommen. Die Treffen sind kostenlos. Eine OWASP-Mitgliedschaft ist nicht erforderlich. Wir freuen uns immer über bekannte und neue Gesichter von nah und fern.  
+Liebe OWASP-Community,  
   
-Kommende Stammtische kündigen wir hier sowie über die [OWASP Germany-Mailingliste](https://groups.google.com/a/owasp.org/forum/#!forum/germany-chapter), [LinkedIn](https://www.linkedin.com/company/owasp-heilbronn/) und [Mastodon](https://infosec.exchange/@owasp_heilbronn/) an. Stay tuned! 🔒🚀  
+der nächste OWASP Heilbronn-Stammtisch steht ins Haus 🔐🚀. Wir treffen uns am 25. März 2026 am TechCampus der Hochschule Heilbronn.   
+  
+Das erwartet Euch:   
+  
+🎤 **Vortrag: "Single Sign-On Privacy: We Still Know What You Did Last Summer"**    
+Single Sign-On (SSO) mit Protokollen wie OAuth 2.0 und OpenID Connect ermöglicht die bequeme Anmeldung bei vielen Webseiten über einen Identity Provider (IdP) wie Google oder Facebook – birgt jedoch erhebliche Datenschutzrisiken.  
+Max stellt in seinem Talk drei neuartige Privacy-Leaks vor, die automatisch und ohne Nutzerwissen auftreten: IdPs können Webseitenbesuche tracken, Webseiten können Nutzer deanonymisieren, und in Einzelfällen werden Identitätsdaten an Dritte weitergegeben. Eine Untersuchung der Tranco Top 1 Million Webseiten belegt die Verbreitung dieser Leaks. Als Gegenmaßnahme präsentiert er die Browser-Erweiterung SSO Privacy Guard.  
+Die zugrundeliegende Veröffentlichung wurde auf der ACSAC 2024 Konferenz auf Hawaii mit dem _Distinguished Paper with Artifacts Award_ ausgezeichnet.  
+  
+👨‍💻 **Zum Speaker**: Max ist wissenschaftlicher Mitarbeiter an der Hochschule Heilbronn und externer Doktorand am Lehrstuhl für Netz- und Datensicherheit der Ruhr-Universität Bochum.  
+  
+🍷**Kulinarik & Networking**: Auch dieses Mal ist bestens für das leibliche Wohl gesorgt. Wer möchte, kann im Anschluss mit uns in die Besenwirtschaft [Alexander Bauer](https://www.weingut-alexander-bauer.de/) gehen (Selbstzahler). Hint: Mittwoch ist Zwiebelrostbraten-Tag!  
+  
+📋**Agenda**:  
+  
+17:45 Uhr: Ankommen & Networking  
+18:15-19:00 Uhr: Vortrag von Maximilian Westers mit Q&A  
+ ab 19:30 Uhr: Networking bei gutem Essen in der Besenwirtschaft [Alexander Bauer](https://www.weingut-alexander-bauer.de/)  
+📍**Ort & Anreise**: Treffpunkt: TechCampus, Max-Planck-Str. 39, 74081 Heilbronn ([Lageplan](https://www.hs-heilbronn.de/de/kontakt)). Der Vortrag findet in Raum A307 statt (Hauptgebäude, 3. Stockwerk). Kostenlose Parkplätze sind in ausreichender Anzahl vorhanden.  
+  
+👉 **Anmeldung**: Um besser planen zu können (Stichwort: Besen!), bitten wir um eine Anmeldung: [https://nuudel.digitalcourage.de/YVMlunyrksDlh9fm](https://nuudel.digitalcourage.de/YVMlunyrksDlh9fm)  
+    
+<!--  alle mit Interesse an unseren Themen sind herzlich willkommen. Die Treffen sind kostenlos. Eine OWASP-Mitgliedschaft ist nicht erforderlich. Wir freuen uns immer über bekannte und neue Gesichter von nah und fern.  
+  
+Kommende Stammtische kündigen wir hier sowie über die [OWASP Germany-Mailingliste](https://groups.google.com/a/owasp.org/forum/#!forum/germany-chapter), [LinkedIn](https://www.linkedin.com/company/owasp-heilbronn/) und [Mastodon](https://infosec.exchange/@owasp_heilbronn/) an. Stay tuned! 🔒🚀  -->  
   
 ## Vergangene Stammtische
 
