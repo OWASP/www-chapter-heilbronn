@@ -30,23 +30,23 @@ Wer Software entwickelt oder auditiert, sollte hier genau hinschauen: if (authen
   
 🍝 **Networking & Abendessen**
   
-Im Anschluss spazieren wir gemeinsam ins Restaurant Campusgarden (https://www.campusgarden.hn/, direkt auf dem Campus) zum gemeinsamen Abendessen und Networking (auf Selbstzahlerbasis).
+Im Anschluss spazieren wir gemeinsam ins Restaurant [Campusgarden](https://www.campusgarden.hn/) (direkt auf dem Campus) zum gemeinsamen Abendessen und Networking (auf Selbstzahlerbasis).
    
 **Agenda**:
   
-      18:00 Uhr: Ankommen & Networking
-      18:30 Uhr: Vortrag von Roman Stühler & Q&A
-      Im Anschluss: Abendessen & Networking im Campusgarden
-  
+18:00 Uhr: Ankommen & Networking   
+18:30 Uhr: Vortrag von Roman Stühler & Q&A   
+Im Anschluss: Abendessen & Networking im Campusgarden   
+   
 **Ort & Anreise**:
   
-Treffpunkt: Hochschule Heilbronn, Bildungscampus 17 (S-Gebäude), Erdgeschoss, Raum S.055 (Lageplan: https://bildungscampus.hn/lageplan)
+Treffpunkt: Hochschule Heilbronn, Bildungscampus 17 (S-Gebäude), Erdgeschoss, Raum S.055 (siehe [Lageplan](https://bildungscampus.hn/lageplan)
    
-Parken: Parkhaus P-Mitte (kostenpflichtig, Zufahrt über Weipertstraße 51, Anfahrt: https://bildungscampus.hn/anfahrt/parkhaus-mitte)
+Parken: [Parkhaus P-Mitte](https://bildungscampus.hn/anfahrt/parkhaus-mitte) (kostenpflichtig, Zufahrt über Weipertstraße 51)
    
 Anmeldung: Damit wir besser planen können (Stichwort: Tischreservierung!), bitten wir um eine Anmeldung, idealerweise so schnell wie möglich :)
    
-      👉 DFN Terminplaner: https://terminplaner6.dfn.de/de/b/8e572915b4db7c104ad46ba5313e006b-1791371
+      👉 [DFN Terminplaner](https://terminplaner6.dfn.de/de/b/8e572915b4db7c104ad46ba5313e006b-1791371)
    
 Wir freuen uns auf einen spannenden Abend mit euch!
    
