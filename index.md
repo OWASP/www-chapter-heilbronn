@@ -15,6 +15,12 @@ postal-code: 74081
 Liebe Security-Community,  
   
 alle mit Interesse an unseren Themen sind herzlich willkommen. Die Treffen sind kostenlos. Eine OWASP-Mitgliedschaft ist nicht erforderlich. Wir freuen uns immer über bekannte und neue Gesichter von nah und fern.  
+
+## Save the Date
+Bitte merkt Euch schon einmal die Termine für unsere kommenden OWASP Stammtische vor:  
+- Donnerstag, 8.10.2026  
+- Donnerstag, 5.11.2026  
+- Donnerstag 10.12.2026  
     
 ## Vergangene Stammtische
 
